@@ -1,6 +1,6 @@
 # NoSQL-challenge
-Michelle Bybee-Moody
-Module 12
+- Michelle Bybee-Moody
+- Module 12
 
 # Description
 Contracted by the editors of the food magazine "Eat, Safe, Love" to evaluate some of the ratings of restaurants across the United Kingdom that were published by the UK Food Standards Agency to assist their journalists and food critics decide where to focus future articles.
